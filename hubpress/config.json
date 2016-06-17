@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "erntdev",
-    "repositoryName": "erntdev.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"erntdev","repositoryName":"erntdev.github.io","branch":"master"},"site":{"title":"Ernesto García Maldonado","description":"Proyectos y otras cosas","url":"https://erntdev.github.io"},"socialnetwork":{"twitter":"@erntdev","github":"github.com/erntdev"},"theme":{"name":"Casper","url":"//erntdev.github.io/themes/Casper"}}
